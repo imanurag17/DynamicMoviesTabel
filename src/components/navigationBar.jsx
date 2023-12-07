@@ -5,7 +5,7 @@ const NavBar = () => {
   return (
     <nav className="navbar navbar-expand-lg bg-body-tertiary">
       <div className="container-fluid">
-        <Link className="navbar-brand" to="/DynamicMoviesTabel">
+        <Link className="navbar-brand" to="/">
           Navbar
         </Link>
         <button
