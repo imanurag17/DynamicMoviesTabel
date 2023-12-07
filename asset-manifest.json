@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/DynamicMoviesTabel/static/css/main.8c2aa58e.css",
-    "main.js": "/DynamicMoviesTabel/static/js/main.b1f7ec03.js",
+    "main.js": "/DynamicMoviesTabel/static/js/main.ece801cf.js",
     "static/js/787.f34edf38.chunk.js": "/DynamicMoviesTabel/static/js/787.f34edf38.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/DynamicMoviesTabel/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/DynamicMoviesTabel/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -10,11 +10,11 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/DynamicMoviesTabel/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/DynamicMoviesTabel/index.html",
     "main.8c2aa58e.css.map": "/DynamicMoviesTabel/static/css/main.8c2aa58e.css.map",
-    "main.b1f7ec03.js.map": "/DynamicMoviesTabel/static/js/main.b1f7ec03.js.map",
+    "main.ece801cf.js.map": "/DynamicMoviesTabel/static/js/main.ece801cf.js.map",
     "787.f34edf38.chunk.js.map": "/DynamicMoviesTabel/static/js/787.f34edf38.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8c2aa58e.css",
-    "static/js/main.b1f7ec03.js"
+    "static/js/main.ece801cf.js"
   ]
 }
