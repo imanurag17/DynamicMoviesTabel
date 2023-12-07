@@ -63,7 +63,7 @@ class App extends Component {
           <Route path='/customers' component={Customers} />
           <Route path='/rental' component={Rental} />
           <Route path='/not-found' component={NotFound} />
-          <Redirect from='/' exact to='/movies' />
+          <Redirect from='/DynamicMoviesTabel' exact to='/movies' />
           <Redirect to='/not-found' />
         </Switch>
       </React.Fragment>
